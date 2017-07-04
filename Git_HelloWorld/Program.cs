@@ -6,7 +6,14 @@ namespace Git_HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Github");
+            Console.ReadLine();
+
+        }
+
+        public static void Test()
+        {
+
         }
     }
 }
