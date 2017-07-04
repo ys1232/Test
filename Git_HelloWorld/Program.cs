@@ -13,7 +13,7 @@ namespace Git_HelloWorld
 
         public static void Test()
         {
-
+            Console.WriteLine("Test");
         }
     }
 }
